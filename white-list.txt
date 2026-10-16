@@ -1,14 +1,4 @@
-@@||visa.com^
-@@||digitalcardservice.com^
-@@||liobank.vn^
-@@||momo.vn^
-@@||rophim.me^
-@@||rophimapi.net^
-@@||rofilm.net^
-@@||nutscdn.com^
-@@||netflix.com^
-@@||nflxvideo.net^
-@@||nflxso.net^
+@@||nhatdong.com^
 
 @@||facebook.com^
 @@||fbcdn.net^
@@ -112,7 +102,6 @@
 @@||akamaihd.net^
 @@||fastly.net^
 @@||fastly-edge.com^
-
 
 @@||recaptcha.net^
 @@||locketcamera.com^
