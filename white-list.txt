@@ -69,11 +69,6 @@
 @@||api.grab.com^
 @@||p.grabtaxi.com^
 @@||mcd-gateway.grabtaxi.com^
-@@||getfly.vn^
-@@||getflycrm.com^
-@@||salework.net^
-@@||givefreely.com^
-@@||cdn.givefreely.com^
 @@||api-v2.zingplay.me^
 @@||pay.zing.vn^
 @@||fbsbx.com^
@@ -104,8 +99,12 @@
 @@||fastly-edge.com^
 
 @@||recaptcha.net^
-@@||locketcamera.com^
-@@||api.locketcamera.com^
 @@||piscale.com^
 @@||zadn.vn^
 @@||zdn.vn^
+
+
+@@||lgthinq.com^
+@@||lapiivn.ezvizlife.com^
+@@||llogin.microsoftonline.com^
+@@||ledge.microsoft.com^
